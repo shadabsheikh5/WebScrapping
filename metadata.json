@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Scavenger",
+  "description": "An AI-powered application that simulates scavenging websites to pull job-related data and displays it in a clean, organized format. Users can enter a website URL and keywords to find relevant job listings.",
+  "requestFramePermissions": []
+}
